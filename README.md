@@ -1,1 +1,1 @@
-# hackerrank-c-
+# hackerrank-cpp
